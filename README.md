@@ -30,3 +30,6 @@
 ## 5. Open into the Browser
     
     http://localhost:8080/
+
+## Demo
+![Gamut_Installer](https://raw.githubusercontent.com/Bioinformatics-Group-C-DAC/GamutInstaller/master/gamut.gif)
