@@ -5,7 +5,8 @@
 
 ## 1. Download Gamut Installer (372MB - Contains MongoDB, Wildfly Server and sample vcf data) 
 
-    https://drive.google.com/uc?id=17Fek9jop8S2oT-54pxGqrTgG8FFobFcT&export=download
+    https://drive.google.com/uc?id=1ItM-KjgScVe9vKWR8_sqChP4S6UC7N6E&export=download
+    https://drive.google.com/file/d/1ItM-KjgScVe9vKWR8_sqChP4S6UC7N6E/view?usp=sharing
 
     
 ## 2. Unzip  
