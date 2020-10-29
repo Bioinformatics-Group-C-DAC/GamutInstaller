@@ -5,10 +5,11 @@
 
 ## 1. Download Gamut Installer (372MB - Contains MongoDB, Wildfly Server and sample vcf data) 
 
-    https://drive.google.com/uc?id=1NCN1lOhz16U8433e7lbvWjq6EDtVvOEc&export=download
+    https://drive.google.com/uc?id=1QXRB3xHeheP0SBBIN9rAclX3TTXgGiJX&export=download
+
     
     **Using Wget Command**
-        export fileid=1NCN1lOhz16U8433e7lbvWjq6EDtVvOEc
+        export fileid=1QXRB3xHeheP0SBBIN9rAclX3TTXgGiJX
         export filename=gamut.zip
         wget --save-cookies cookies.txt 'https://docs.google.com/uc?export=download&id='$fileid -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1/p' > confirm.txt
         wget --load-cookies cookies.txt -O $filename 'https://docs.google.com/uc?export=download&id='$fileid'&confirm='$(<confirm.txt)
